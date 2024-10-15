@@ -1,0 +1,92 @@
+[
+    {
+        "form": {
+            "id": "d8303bf",
+            "name": "Jerods Leads Form"
+        },
+        "fields": {
+            "form_free_consultation_first_name": {
+                "id": "form_free_consultation_first_name",
+                "type": "text",
+                "title": "Your name",
+                "value": "Lathindu Pramuditha",
+                "raw_value": "Lathindu Pramuditha",
+                "required": "1"
+            },
+            "form_free_email": {
+                "id": "form_free_email",
+                "type": "email",
+                "title": "Email",
+                "value": "hello@lathindu.com",
+                "raw_value": "hello@lathindu.com",
+                "required": "1"
+            },
+            "form_free_consultation_phone": {
+                "id": "form_free_consultation_phone",
+                "type": "tel",
+                "title": "Whatsapp Number",
+                "value": "0774333222",
+                "raw_value": "0774333222",
+                "required": "0"
+            },
+            "field_b5fa33f": {
+                "id": "field_b5fa33f",
+                "type": "html",
+                "title": null,
+                "value": null,
+                "raw_value": null,
+                "required": "0"
+            },
+            "message": {
+                "id": "message",
+                "type": "textarea",
+                "title": "Your Message",
+                "value": "sasa as s sa a as",
+                "raw_value": "sasa as s sa a as",
+                "required": "1"
+            },
+            "field_5b3b2cf": {
+                "id": "field_5b3b2cf",
+                "type": "upload",
+                "title": "Upload Any Document / Mockup",
+                "value": "https://axcertro.com/wp-content/uploads/elementor/forms/66db703dc958a.png , https://axcertro.com/wp-content/uploads/elementor/forms/66db703dc9bfa.jpg",
+                "raw_value": "/home/cleavr/axcertro.com/current/wp-content/uploads/elementor/forms/66db703dc958a.png , /home/cleavr/axcertro.com/current/wp-content/uploads/elementor/forms/66db703dc9bfa.jpg",
+                "required": "0",
+                "file_sizes": "10",
+                "file_types": "pdf, ppt,docs,jpg,jpeg,png,heic",
+                "max_files": "3",
+                "attachment_type": "link"
+            },
+            "field_0c33c27": {
+                "id": "field_0c33c27",
+                "type": "acceptance",
+                "title": null,
+                "value": "on",
+                "raw_value": "on",
+                "required": "1"
+            },
+            "field_724755c": {
+                "id": "field_724755c",
+                "type": "hidden",
+                "title": "a",
+                "value": "asdf",
+                "raw_value": "asdf",
+                "required": "0"
+            }
+        },
+        "meta": {
+            "date": {
+                "title": "Date",
+                "value": "September 7, 2024"
+            },
+            "time": {
+                "title": "Time",
+                "value": "2:42 am"
+            },
+            "page_url": {
+                "title": "Page URL",
+                "value": "https://axcertro.com/need-a-stable-service/?a=asdf"
+            }
+        }
+    }
+]
